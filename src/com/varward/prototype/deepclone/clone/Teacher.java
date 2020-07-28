@@ -1,4 +1,4 @@
-package com.varward.prototype.deepclone;
+package com.varward.prototype.deepclone.clone;
 
 public class Teacher implements Cloneable {
     private String name ;
